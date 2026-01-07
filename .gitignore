@@ -1,0 +1,10 @@
+.env
+*.log
+node_modules/
+__pycache__/
+.vscode/
+
+# Media files
+*.mp4
+*.mkv
+*.avi
