@@ -6,17 +6,12 @@ Ce projet a été réalisé dans le cadre du passage de l'AIS, sur une période 
 
 ## Description
 
-Ce dépôt contient le travail effectué durant cette période. Des améliorations pourront être apportées ultérieurement, cette version n'est donc pas finale.
+Ce dépôt contient principalement :
 
-Le fichier **Cleanic.pdf** présente :
+- Le fichier **Cleanic.pdf** qui documente en détail le contexte, l’infrastructure, la sécurité appliquée, les problématiques et les perspectives d’évolution du projet.  
+- Le dossier **Screens projets final** regroupant des captures d’écran servant de preuves visuelles et supports aux explications fournies dans le PDF.  
 
-- Le contexte du projet  
-- L’architecture de l’infrastructure  
-- Les mesures de sécurité appliquées  
-- Les restrictions et problématiques identifiées  
-- Les améliorations possibles et perspectives d’avenir  
-
-Le dossier **Screens projets final** contient des preuves visuelles (captures d’écran) illustrant les informations détaillées dans le document **Cleanic.pdf**.
+Le travail présenté a été réalisé sur GNS3 durant la période indiquée. Des améliorations pourront être intégrées ultérieurement, cette version n’est donc pas finale.
 
 ---
 
